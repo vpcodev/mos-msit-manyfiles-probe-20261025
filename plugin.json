@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "manyfiles-probe",
+  "version": "1.0.0",
+  "description": "Test-only probe with 1,500 small files."
+}
